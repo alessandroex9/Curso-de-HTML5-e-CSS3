@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+/*
+ em HTML é id = em CSS é # (só pode um elemento)
+ em HTML é class = em CSS é . (pode vários elementos)
+ para envelopar uma parte de um texto usa a tag <span>
+ Da para colocar mais de uma class ne uma tag
+*/
+
+*{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+body{
+    background-color: #1DFAE3;
+}
+
+h1 {
+    color: #4C7A76;
+
+}
+
+h2 {
+    color: #3F504E;
+}
+
+p {
+    color: #4BA59C;
+}
+/*Criando uma id para o h1*/
+h1#principal {
+    color: black;
+    text-align: center;
+}
+
+/* Criando uma classe*/
+.inicial{
+    background-color: #4BA59C;
+    font-weight: bolder;
+    
+}
+.avancado{
+    background-color: #3BCFC1;
+    text-align: center;
+}
