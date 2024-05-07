@@ -10,9 +10,9 @@ Curso de HTML5 e CSS3 para desenvolvimento de sites. Com exercicios, desafios e 
 </p>
 
 # Acesso aos Projetos
-<a href="https://alessandroex9.github.io/curso-de-HTML5-e-CSS3/estudos/html-css/projetos/projeto-Android/projetoandroid.html"> Projeto Android
+<a href="https://alessandroex9.github.io/Curso-de-HTML5-e-CSS3/estudos/html-css/projetos/projeto-Android/projetoandroid.html"> Projeto Android
 
-<a href="https://alessandroex9.github.io/curso-de-HTML5-e-CSS3/estudos/html-css/projetos/projeto-cordel/projetocordel.html"> Projeto Cordel
+<a href="https://alessandroex9.github.io/Curso-de-HTML5-e-CSS3/estudos/html-css/projetos/projeto-cordel/projetocordel.html"> Projeto Cordel
 
 # Ferramentas utilizadas
 <img src="imagens/html5.jpg"/>
