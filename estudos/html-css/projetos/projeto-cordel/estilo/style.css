@@ -9,6 +9,10 @@
     padding: 0px;
     font-size: 1em;
 }
+body {
+    min-height: 100vh;
+    background-color: darkgray;
+}
 
 header {
     background-color: black;
