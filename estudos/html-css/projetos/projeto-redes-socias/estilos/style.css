@@ -36,10 +36,13 @@ section#telefone {
 
 iframe#tela {
     position: relative;
-    top: 80px;
-    left: 21px;
-    width: 269px;
-    height: 472px;
+    top: 78px;
+    left: 20px;
+    width: 270px;
+    height: 474px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
 }
 section#redes-sociais {
     text-align: right;
