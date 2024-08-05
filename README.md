@@ -14,6 +14,9 @@ Curso de HTML5 e CSS3 para desenvolvimento de sites. Com exercicios, desafios e 
 
 <a href="https://alessandroex9.github.io/Curso-de-HTML5-e-CSS3/estudos/html-css/projetos/projeto-cordel/projetocordel.html"> Projeto Cordel
 
+<a href="https://alessandroex9.github.io/Curso-de-HTML5-e-CSS3/estudos/html-css/projetos/projeto-redes-socias/">
+Projeto Redes Sociais
+
 # Ferramentas utilizadas
 <img src="imagens/html5.jpg"/>
 <img src="imagens/css3.png"/>
