@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo de Formulário</title>
+</head>
+<body>
+    <h1>Exemplo de Formulário</h1>
+    <form action="cadastro.php" method="get" autocomplete="on">
+
+        <fieldset>
+            <legend>Sexo</legend><!--Para pertencer ao mesmo grupo temos que colocar o mesmo name-->
+            <input type="radio" name="sexo" id="sxmax" value="m"> <label for="sxmax" >Masculino</label>
+
+            <input type="radio" name="sexo" id="sxfem" value="f"> <label for="sxfem">Feminino</label>
+
+            <input type="radio" name="sexo" id="sxout" value="o"> <label for="sxout">Outro</label>
+        </fieldset>
+
+        <fieldset>
+            <legend>Esportes favoritos</legend>
+            <input type="checkbox" name="esfut" id="esfut"> <label for="esfut">Futebol</label>
+            <input type="checkbox" name="esbas" id="esbas"> <label for="esbas">Basquete</label>
+            <input type="checkbox" name="esvol" id="esvol"> <label for="esvol">Volêi</label>
+            <input type="checkbox" name="esnad" id="esnad"> <label for="esnad">Natação</label>
+            <input type="checkbox" name="esten" id="esten"> <label for="esten">Tênis</label>
+        </fieldset>
+
+        <p>
+            <input type="submit" value="Enviar">
+            <input type="reset" value="Limpar">
+        </p>
+    </form>
+</body>
+</html>
